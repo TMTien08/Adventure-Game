@@ -1,0 +1,5 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/_2DAdventureGame/Art/UICounterBar.png?fileID=21300000&amp;guid=4bb9e5210d4bc484ab335c62e1e0ffd3&amp;type=3#UICounterBar&quot;); -unity-background-scale-mode: stretch-to-fill; font-size: 146px; width: 100%; height: 100%;">
+        <ui:Label text="0/0" name="CounterLabel" style="height: 100%; width: 100%; -unity-text-align: middle-center; font-size: 22px; -unity-font-style: bold; color: rgb(255, 255, 255);"/>
+    </ui:VisualElement>
+</ui:UXML>
